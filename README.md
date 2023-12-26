@@ -1,7 +1,8 @@
 # Tiny-T Sidepack
 
-Source: https://github.com/VoronDesign/Voron-Trident
-        https://github.com/PrintersForAnts/Tiny-T
+# Source
+         https://github.com/PrintersForAnts/Tiny-T
+         https://github.com/VoronDesign/Voron-Trident
 
 # Frame Specs
 If ordering from Misumi, these are the specs:
