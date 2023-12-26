@@ -1,4 +1,4 @@
-# Tiny-T Sidepack
+# Tiny-T Sidepack - Alpha (Not yet tested)
 
 # Source
          https://github.com/PrintersForAnts/Tiny-T
