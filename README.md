@@ -19,5 +19,5 @@ If ordering from Misumi, these are the specs:
         Misumi HFSB5-2020-140			                1 (rear gantry extrusion)
         Misumi HFSB5-2020-270-AH135			        	1 (bed extrusion)
         Misumi HFSB5-2020-132-LTP			      	        1 (bed extrusion)
-        Misumi HFSB5-2040-360-TPW-AH240                            2 (separation extrusion)
-        Misumi HFSB5-2040-270-TPW                                  3 (midle extrusion)
+        Misumi HFSB5-2040-360-TPW-AH240                             2 (separation extrusion)
+        Misumi HFSB5-2040-270-TPW                                   3 (midle extrusion)
