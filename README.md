@@ -8,6 +8,7 @@
          https://github.com/PrintersForAnts/Tiny-T
          https://github.com/VoronDesign/Voron-Trident
          https://github.com/3DPrintingMods/VoronTrident-Sidepack
+         https://github.com/VoronDesign/Voron-2/tree/V2.2
 
 # Frame Specs
 If ordering from Misumi, these are the specs:
