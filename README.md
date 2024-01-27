@@ -1,6 +1,6 @@
 # Tiny-T Sidepack - Alpha (Not yet assembled)
 
-# Warning, the project has not yet been built completely, so there may be errors that have not been found. You building it on your own risk.
+# Warning, the project has not yet been built completly, so there may be errors that have not been found. You building it on your own risk.
 
  ![Tiny-T SidePack](https://github.com/LANCER245/Tiny-T-Sidepack/blob/main/images/Tiny-t-Sidepack.jpg)
 
